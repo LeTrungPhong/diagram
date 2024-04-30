@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T19:08:13.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="biZnp1VVrh9YDYH5UChX" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-30T19:11:34.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tmA1fq-swKvYKe6RUT6b" version="24.3.1" type="github" pages="5">
   <diagram name="thiết kế hệ thống" id="zJkAMsaMatiRlmG5kIJx">
     <mxGraphModel dx="6296" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uCSuBBWDUcBW7SoWwdjB" name="pttkhdtTT">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
